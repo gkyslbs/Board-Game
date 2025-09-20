@@ -20,10 +20,10 @@ Scriptler;
 PlacementManager.cs ( yerleştirme )  
 DefenderShooter.cs ( ateş etme ve menzil )  
 Enemy.cs (HP/ilerleme)  
-Bullet.cs + BulletPool.cs ( mermi ve poolin işlemi için )
+Bullet.cs + BulletPool.cs ( mermi ve pooling işlemi için )
 SpawnPath.cs ( spawn ve rota )  
 PanelController.cs ( win/lose panelleri )  
-PortraitWindowSizer.cs ( PC pencere boyutu için kullandım )
+PortraitWindowSizer.cs ( PC pencere boyutu için )
 MenuUI.cs ( menü işlemleri )
 
 TEŞEKKÜRLER...
