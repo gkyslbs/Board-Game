@@ -4,7 +4,7 @@ Nots ;
 
 Release’te görünen **“Source code (zip/tar.gz)”** GitHub’ın otomatik paketlediği kaynak koddur. Oynamak için Release kısmındaki dosyaları indirin.
 
-- Unity: 6000.2.4f1 (Unity 6)
+Unity: 6000.2.4f1 (Unity 6)
 - Input: *Input Manager (Old)* 
 - Pooling: Simple BulletPool
 
