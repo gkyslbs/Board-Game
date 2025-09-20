@@ -9,7 +9,9 @@ Release’te görünen **“Source code (zip/tar.gz)”** GitHub’ın otomatik 
 - Pooling: Simple BulletPool
 
 -AI kullanımını asgari seviyede tuttum; kodları büyük ölçüde kendim yazdım.
+
 -AI araçlarını sadece yol gösterme ve küçük hata ayıklama için sınırlı kullandım.
+
 -Gerekli yerlerde resmi dokümantasyonlar, makaleler ve çeşitli videolar izledim.
 
 Scriptler;
